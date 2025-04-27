@@ -1,6 +1,6 @@
 # **ModelLens**  
 🚀 *A Clear View Into AI Predictions and Accuracy*  
-Live Demo - [Click Here](https://modellens.streamlit.app/)
+Live Demo - [Click Here](https://jfmveqq96xxbwuk8dspkge.streamlit.app/)
 
 ---  
 
